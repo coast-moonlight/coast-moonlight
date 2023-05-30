@@ -21,13 +21,6 @@ I am constantly seeking opportunities to learn and grow in the field of IT. I en
 ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<strong>Technologies & Frameworks</strong><br>
-<br>
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=postgresql&logoColor=white)
-
 <strong>OS</strong><br>
 <br>
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white)
