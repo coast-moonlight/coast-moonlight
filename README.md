@@ -1,5 +1,5 @@
 <p align="center"><em>
-I fix problems the right way — no hype, just results. One line of clean code at a time.
+ Security isn't just about systems — it's about people, purpose, and precision. 
 </em></p>
 
 <!---
